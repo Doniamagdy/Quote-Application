@@ -1,4 +1,24 @@
 var quotes = [
+ {
+    quote:"Change will not come if we wait for some other person or some other time. We are the ones we’ve been waiting for. We are the change that we seek. ",
+    author: "Barack Obama",
+  },
+  {
+    quote:"Every success story is a tale of constant adaption, revision and change. ",
+    author: "Richard Branson",
+  },
+  {
+    quote:"What you do has far greater impact than what you say. ",
+    author: "Stephen Covey",
+  },
+   {
+    quote:"The way to get started is to quit talking and begin doing. ",
+    author: "Walt Disney",
+  },
+   {
+    quote:"Always remember that you are absolutely unique. Just like everyone else. ",
+    author: "Margaret Mead",
+  },
   {
     quote: "Be yourself; everyone else is already taken. ",
     author: "Oscar Wilde ",
@@ -19,26 +39,7 @@ var quotes = [
     quote:"Live as if you were to die tomorrow. Learn as if you were to live forever. ",
     author: "Mahatma Gandhi",
   },
-  {
-    quote:"Change will not come if we wait for some other person or some other time. We are the ones we’ve been waiting for. We are the change that we seek. ",
-    author: "Barack Obama",
-  },
-  {
-    quote:"Every success story is a tale of constant adaption, revision and change. ",
-    author: "Richard Branson",
-  },
-  {
-    quote:"What you do has far greater impact than what you say. ",
-    author: "Stephen Covey",
-  },
-   {
-    quote:"The way to get started is to quit talking and begin doing. ",
-    author: "Walt Disney",
-  },
-   {
-    quote:"Always remember that you are absolutely unique. Just like everyone else. ",
-    author: "Margaret Mead",
-  }
+ 
   
 ];
 
