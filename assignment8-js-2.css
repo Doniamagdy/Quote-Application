@@ -21,6 +21,12 @@ body{
     height: 50vh;
 }
 
+.layer h1{
+    font-size: 100px;
+    font-weight: 900;
+}
+
+
 h1{
     font-size: 60px;
     font-weight: 900;
